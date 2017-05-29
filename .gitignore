@@ -105,4 +105,7 @@ ENV/
 # Idea
 *.idea
 
+# data
+*.tsv
+jupyter_notebooks/topic08_sgd_hashing_vowpal_wabbit/imdb_reviews
 
